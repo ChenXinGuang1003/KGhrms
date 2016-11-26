@@ -1,0 +1,15 @@
+@CHARSET "UTF-8" ;
+
+.form-search select{
+    height: 34px ;
+    line-height: 34px ;
+    margin-right:5px;
+}
+.form-search input{height: 24px;}
+.form-search button{height: 33px;}
+.summary {
+    margin-top:5px;
+}
+.pagination {
+    margin-top:0px;
+}
